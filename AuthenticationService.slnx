@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AuthenticationService.API/AuthenticationService.API.csproj" />
+  <Project Path="AuthenticationService.Tests/AuthenticationService.Tests.csproj" />
+</Solution>
